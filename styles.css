@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.cont{
+	height: 500px;
+	background-color: blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.btn{
+	border: 1px none;
+	border-radius: 2px;
+	padding: 10px;
+	margin: 15px
+}
+
+.stop{
+	border: 1px none;
+	border-radius: 2px;
+	padding: 10px;
+	margin: 15px
+}
